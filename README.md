@@ -1,4 +1,4 @@
 # ashish_github-demo
 This is my first Git Repository
 <br>
-Author - Ashish Singh Bari
+Author - Ashish Singh
